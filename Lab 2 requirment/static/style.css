@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to bottom, #0000ff, #000000);
+    color: white;
+    height: 100vh;
+}
+
+
+input[type="submit"] 
+{
+ 
+    background-color: #0066cc; 
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+
+input[type="submit"]:hover
+{
+    background-color: #0055aa;
+}
+
+
+
